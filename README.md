@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreslop27
-- 👀 I’m interested in Evolution, phylogenetics, population genetics,genomics and evolution
-- 🌱 I’m currently learning genome assembly and anslyses
+- 👀 I’m interested in Evolution, phylogenetics, population genetics, genomics and evolution
+- 🌱 I’m currently learning genome assembly and analyses
 - 💞️ I’m looking to collaborate on Genome assmebly
 - 📫 How to reach me my email is andreslop27@gmail.com
 
